@@ -1,3 +1,4 @@
 # proyecto-pokemon
 
-My firts git proyect (y)
+My firts git proyect - pokemon system
+
